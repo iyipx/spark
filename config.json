@@ -1,7 +1,7 @@
 {
   "version":100,
-  "forceVersion":100,
-  "updateMessage":"",
+  "forceVersion":99,
+  "updateMessage":"全新版本升级",
   "updateUrl":"",
   "api":"https://hutool.ml/tang"
 }
